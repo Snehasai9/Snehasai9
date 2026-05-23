@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sneha Anand 👋
 
-<!--
-**Snehasai9/Snehasai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 4th-year Mechanical Engineering student building a bridge between intelligent AI models (Deep Learning, RL, CV) and modern software architecture (Web Stack & Systems). 
 
-Here are some ideas to get you started:
+I focus on developing strong problem-solving skills, understanding how data flows through modern applications, and learning how to apply software logic to real-world engineering challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Technical Toolbox
+
+| Domain | Technologies & Skills |
+| :--- | :--- |
+| **AI and ML** | Python, Deep Learning, Reinforcement Learning, Computer Vision, NumPy, Pandas, Scikit-Learn, Tensorflow, Pytorch |
+| **Web Stack Engineering** | HTML5, CSS3, JavaScript, Exploring REST APIs & Backend Logic |
+| **Core Software Logic** | Data Structures & Algorithms (DSA), SQL, Object-Oriented Programming (OOP) |
+| **Tools & Environment** | Git, GitHub, VS Code, Jupyter Notebooks, Linux Basics |
+
+---
+
+## 🎯 What I'm Actively Exploring & Practicing
+
+- ⚡ **Data Structures & Algorithms (DSA):** Actively solving logic and algorithmic challenges daily to master time and space complexity optimizations for tech placement rounds.
+- 🌐 **Web Systems:** Building functional web interfaces and learning how frontend components communicate with databases and backend APIs.
+- 🧠 **Deep Learning & RL:** Deepening my understanding of neural networks, Computer Vision pipelines, and Reinforcement Learning architectures.
+
+---
+
+## 📬 Connect with Me
+- **LinkedIn:** [www.linkedin.com/in/sneha-anand-b38b912b0]
+- **Email:** [me23b203@smail.iitm.ac.in]
